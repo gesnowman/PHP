@@ -1,0 +1,7 @@
+[18-Oct-2019 10:17:03 UTC] PHP Parse error:  syntax error, unexpected '' </td>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/bankcodeindia/public_html/application/views/ac_party_performance_over_page.php on line 228
+[18-Oct-2019 10:41:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bankcodeindia/public_html/application/views/ac_party_detail_page.php on line 242
+[24-Oct-2019 14:39:20 UTC] PHP Fatal error:  Call to undefined method Search_model::get_years_pc() in /home/bankcodeindia/public_html/application/controllers/Welcome.php on line 30
+[29-Oct-2019 06:49:37 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bankcodeindia/public_html/application/views/search_filter.php on line 200
+[30-Oct-2019 02:21:46 UTC] PHP Fatal error:  Call to undefined method Acparty_model::get_candidate_list() in /home/bankcodeindia/public_html/application/controllers/Acparty.php on line 125
+[30-Oct-2019 02:28:14 UTC] PHP Fatal error:  Call to undefined method Acparty_model::get_candidate_list() in /home/bankcodeindia/public_html/application/controllers/Acparty.php on line 125
+[30-Oct-2019 03:26:43 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/bankcodeindia/public_html/application/views/ac_candidate_page.php on line 231
